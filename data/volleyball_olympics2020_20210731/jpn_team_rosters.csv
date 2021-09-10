@@ -1,0 +1,16 @@
+player_no,player_name,shirt_name,position,hand,height,highest_reach_spike,highest_reach_block,date_of_birth
+1,KUROGO Ai,KUROGO,Outside Hitter,Right,180,306,295,1998-06-14
+2,KOGA Sarina,KOGA,Outside Hitter,Right,180,307,290,1996-05-21
+3,TASHIRO Kanami,TASHIRO,Setter,Right,173,289,273,1991-03-25
+4,ISHIKAWA Mayu,ISHIKAWA,Outside Hitter,Right,173,300,290,2000-05-14
+5,SHIMAMURA Haruyo,SHIMAMURA,Middle Blocker,Right,182,297,290,1992-03-04
+6,KOBATA Mako,KOBATA,Libero,Right,164,285,274,1992-08-15
+8,ISHII Yuki,ISHII,Outside Hitter,Right,180,305,287,1991-05-08
+9,OKUMURA Mai,OKUMURA,Middle Blocker,Right,177,297,285,1990-10-31
+11,ARAKI Erika (c),ARAKI,Middle Blocker,Right,186,305,297,1984-08-03
+12,MOMII Aki,MOMII,Setter,Left,176,285,288,2000-10-07
+15,HAYASHI Kotona,HAYASHI,Outside Hitter,Right,173,292,280,1999-11-13
+18,YAMADA Nichika,YAMADA,Middle Blocker,Right,184,310,288,2000-02-24
+,NAKADA Kumi,,Head Coach,,,,,
+,AIHARA Noboru,,Assistant Coach,,,,,
+,KIMURA Taisuke,,Assistant Coach,,,,,
